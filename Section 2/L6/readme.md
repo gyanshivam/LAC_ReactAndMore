@@ -1,0 +1,1 @@
+First React project after a long time using Vite instead of CRA
